@@ -1,0 +1,7 @@
+c:\users\santi\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe.config
+c:\users\santi\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe
+c:\users\santi\source\repos\Clase1\Clase1\bin\Debug\Clase1.pdb
+c:\users\santi\source\repos\Clase1\Clase1\obj\Debug\Clase1.csprojAssemblyReference.cache
+c:\users\santi\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+c:\users\santi\source\repos\Clase1\Clase1\obj\Debug\Clase1.exe
+c:\users\santi\source\repos\Clase1\Clase1\obj\Debug\Clase1.pdb
