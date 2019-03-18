@@ -1,0 +1,7 @@
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\bin\Debug\Clase1Practica.exe.config
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\bin\Debug\Clase1Practica.exe
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\bin\Debug\Clase1Practica.pdb
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\obj\Debug\Clase1Practica.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\obj\Debug\Clase1Practica.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\obj\Debug\Clase1Practica.exe
+C:\Users\santi\source\repos\Clase1Practica\Clase1Practica\obj\Debug\Clase1Practica.pdb
